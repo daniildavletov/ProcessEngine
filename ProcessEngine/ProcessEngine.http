@@ -1,0 +1,6 @@
+@ProcessEngine_HostAddress = http://localhost:5265
+
+GET {{ProcessEngine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
